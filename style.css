@@ -1,4 +1,125 @@
 body{
-    color: grey;
-    background-color: grey;
+    font-family: poppins;
+}
+img.logo {
+    width: 176px;
+}
+h1,h2,h3,h4{
+    font-family:poppins; 
+}
+a.nav-link{
+    margin: 0px 38px;
+    padding: .5rem 2rem; 
+    line-height: 1.5; 
+    text-align: center;
+}
+.gap{
+    margin-top: 90px;
+}
+a.nav-link:hover{
+    background: #1aad1a;
+    color: white !important;
+    border-radius: 2.0rem;
+}
+.illsutration{
+    width:100%
+}
+.bg-green{
+    background-color: rgb(227, 241, 227)
+}
+.header-main{
+    height: 600px;
+}
+.any-schedule{
+    color: #12b912;
+}
+p.are-you {
+    color: red;
+}
+.round-gr-btn{
+    font-weight: 400;
+    text-align: center;
+    border:none;
+    padding: 0.7rem 0.95rem;
+    font-size: 1rem;
+    line-height: 3.5;
+    border-radius: 1.25rem;
+     color: #fff;
+     background-color: #28a745;
+     text-decoration: none;
+}
+.round-gr-btn:hover{
+    text-decoration: none;
+    color:white;
+    background-color:#298b40; ;
+}
+h1#mission {
+    margin-bottom: 50px;
+    text-align: center;
+}
+.card{
+    border: none !important;
+    box-shadow: 0px 2px 8px 3px #d6d6d6;
+    border-radius: 20px
+    
+}
+.card2{
+  padding: 20px;
+}
+.card img.first {
+    width: 94px;
+}
+.card-footer{
+    background-color: white !important;
+    border-top: none !important;
+}
+.our-courses{
+    text-align: center;
+}
+.card img.second {
+    height: 250px;
+    border-radius: 10px;
+    width: 100%;
+}
+#subscribe{
+    height: 300px;
+}
+img.man{
+    width: 114px;
+    margin-right: 10px;
+}
+.col-md-6.contant {
+    margin-top: 20px;
+}
+.row.man-w-parg {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.last-footer{
+    background-color: rgb(43, 46, 58);
+    color:white;
+    padding-top: 5%;
+    height: 400px;
+}
+.side-gap{
+    margin-left: 6%;
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    margin-top: 7%;
+}
+h5.font {
+    margin-left: 13%;
+    margin-bottom: 13%;
+}
+#copyright{
+    background-color: none !important;
+    color: white;
+}
+img.calendar ,img.people {
+    width: 20px;
+}
+img.people {
+    margin-left: 38px;
 }
