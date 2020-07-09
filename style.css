@@ -1,5 +1,6 @@
 body{
     font-family: poppins;
+    height: auto;
 }
 img.logo {
     width: 176px;
@@ -122,4 +123,9 @@ img.calendar ,img.people {
 }
 img.people {
     margin-left: 38px;
+}
+@media screen and (max-width:1200px){
+    .last-footer{
+        height: 524px;;
+    }
 }
