@@ -129,3 +129,8 @@ img.people {
         height: 524px;
     }
 }
+@media screen and (max-width:1200px){
+    .last-footer{
+        height: 690px;
+    }
+}
